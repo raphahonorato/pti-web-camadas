@@ -1,0 +1,24 @@
+.principal{
+    width: 100%;
+    background-color: #C4170C;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#containerHeader2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 70%;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+#menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    color: white;
+}
