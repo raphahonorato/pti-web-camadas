@@ -6,7 +6,9 @@ Realizei a componentização de alguns itens que achei pertinentes.
 
 O Header separei em 2 componentes que foi a lista de links principal e o Menu, os banners, cards e o footer.
 
+[Link do repositório](https://github.com/raphahonorato/pti-web-camadas)
 
+[Portal do G1](https://g1.globo.com/)
 
 ---
 
